@@ -1,0 +1,139 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.divv{
+    flex-direction: row;
+    border: solid 2px rgb(216, 216, 216);
+    width: 320px;
+    height: 180px;
+    text-align: center;
+    border-radius: 4px;
+}
+.rasm{
+    position: relative;
+    top: 20px;
+    left: 420px;
+    bottom: 40px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.lorem{
+     background-color: rgb(201, 85, 2);
+     border: solid 2px rgb(201, 85, 2) ;
+     border-start-start-radius: 4px;
+     text-align: center;
+     padding: 5px;
+     color: white;
+ }
+.lorembig{
+    position: relative;
+    top: 20px;
+}
+.kotta1{
+    display: flex;
+    justify-content:center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+.kotta2{
+    display: flex;
+    justify-content:center;
+    gap: 30px;
+    margin-bottom: 30px;
+
+}
+.kotta3{
+    display: flex;
+    justify-content:center;
+    gap: 30px;
+    margin-bottom: 40px;
+ }
+
+ .rang{
+    background-color:  rgb(243, 253, 249);
+
+    
+ }
+ .section3{
+    text-align: center;
+    position: relative;
+    top: 45px; 
+    row-gap: 20px;
+ }
+
+ .bir{
+    width: 210px;
+    border: solid 3px rgb(243, 253, 249);
+    border-radius: 12px;
+position: relative;
+left: 40px;
+top: 15px;
+    margin-top: 40px;
+ }
+ .knopka{
+    position: relative;
+    left: 20px;
+    width: 160px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color:rgb(6, 199, 180);
+    border: solid 1px rgb(6, 199, 180);
+    color: white;
+    cursor: pointer;
+
+ }
+ .knopka:hover{
+    background-color: aqua;
+    color: black;
+    transition: 1s;
+    
+ }
+ .shop{
+    position: relative;
+    left: 30px;
+    width: 140px;
+
+  }
+  .bir{
+    background-color: white;
+    border:solid 2px rgb(6, 199, 180);
+  }
+
+
+  .gv{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    padding-right: 90px;
+    background-color:rgb(243, 253, 249);
+    padding-bottom: 80px;
+  }
+
+  #rang{
+    width: 1630px;
+    height: 290px;
+    padding-left: 65px;
+     margin-bottom:40px ;
+   }
+
+   .hash{
+    text-align: center;
+    margin-top: 20px;
+   }
+   .ramka{
+    width: 930px;
+    border-radius: 15px;
+    position: relative;
+    left: 370px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    border: solid 2px rgb(201, 85, 2);
+   }
+
+
+#table{
+    display: flex;
+   }
